@@ -23,4 +23,5 @@ class Dog
    @@all.clear
  end
  
+ def s
 end
